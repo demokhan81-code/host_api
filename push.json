@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "name": "Smartphone",
+      "price": 499.99,
+      "inStock": true
+    },
+    {
+      "id": 102,
+      "name": "Laptop",
+      "price": 899.99,
+      "inStock": false
+    },
+    {
+      "id": 103,
+      "name": "Wireless Earbuds",
+      "price": 59.99,
+      "inStock": true
+    }
+  ]
+}
